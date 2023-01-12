@@ -1,3 +1,5 @@
+/// função deve verificar o tipo de dado.
+
 function verificaTipoDeDado(dado){
     if (typeof dado === 'string') {
         return("Este dado é uma string.");
